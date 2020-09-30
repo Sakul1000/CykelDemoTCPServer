@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelDemoTCPServer", "CykelDemoTCPServer\CykelDemoTCPServer.csproj", "{00709B9C-AD2C-4092-B3FB-4334FB6D7CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelDemoTCPClient", "CykelDemoTCPClient\CykelDemoTCPClient.csproj", "{714AAB0A-B51A-4980-95FF-9C9B1EDC7CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00709B9C-AD2C-4092-B3FB-4334FB6D7CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00709B9C-AD2C-4092-B3FB-4334FB6D7CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00709B9C-AD2C-4092-B3FB-4334FB6D7CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00709B9C-AD2C-4092-B3FB-4334FB6D7CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714AAB0A-B51A-4980-95FF-9C9B1EDC7CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714AAB0A-B51A-4980-95FF-9C9B1EDC7CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714AAB0A-B51A-4980-95FF-9C9B1EDC7CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714AAB0A-B51A-4980-95FF-9C9B1EDC7CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B92262A4-B0E5-4C76-A501-1A779C0C7B8F}
+	EndGlobalSection
+EndGlobal
